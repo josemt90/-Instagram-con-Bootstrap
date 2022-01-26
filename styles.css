@@ -1,0 +1,97 @@
+i{
+    margin-right: 5px;
+}
+
+ .principal img{
+    padding: 2px;
+   max-width: 100%;
+   min-width: 100%;
+   min-height: 100%;
+   max-height: 100%;
+   display:block;
+   margin:auto;
+}
+
+.fontInsta{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.margenInsta{
+    margin-left: 100px;
+}
+
+.margenInsta svg{
+    margin-right: 5px;
+}
+.margDerNav{
+    margin-left: 10px !important;
+}
+
+.marginNav{
+    margin-right: 110px;
+}
+
+body{
+  
+    background-color: rgb(221, 222, 223);
+    
+}
+
+.navPrincipal{
+    background-color: rgb(237, 237, 238);
+
+}
+.card{
+    width: 60rem;
+    
+}
+
+.bi-heart{
+    margin-right: 10px;
+
+}
+
+.bi-three-dots-vertical{
+    font-size: 50px;
+}
+
+.nav-tabs{
+    margin-top: 58px;
+}
+
+.nav-tabs .nav-link.active {
+    color: white;
+    background-color: rgb(91, 93, 94);
+    /* border-color: #dee2e6 #dee2e6 #fff; */
+}
+a#grid-tab {
+    color: black;
+}
+
+a#grid-tab.active {
+    color: white;
+}
+
+a#single-tab {
+    color: black;
+}
+
+a#single-tab.active {
+    color: white;
+}
+
+
+
+#grid-tab:hover{
+    background-color: rgb(203, 203, 204);
+}
+
+#single-tab:hover{
+    background-color: rgb(203, 203, 204);
+}
+
+
+
+.nav-tabs{
+    background-color: white !important; 
+}
